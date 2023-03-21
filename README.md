@@ -1,7 +1,7 @@
 # SCD
 Skin Cancer Detector (AI) trained and tested on ~3300 images of malignant and benign tumors
 ***
-This project is a skin cancer detector that uses CNN and deep learning algorithms to classify skin lesions as either malignant or benign. The AI has been trained and tested on a dataset of approximately 3300 images, resulting in an accuracy of about 75%.
+This project is a skin cancer detector that uses CNN and deep learning algorithms to classify skin lesions as either malignant or benign. The AI has been trained and tested on a dataset of approximately 3300 images, resulting in an accuracy of about 75%[^1].
 
 The skin cancer detector has practical applications in the medical field, as it can be used by dermatologists to quickly and accurately diagnose skin cancer in patients. By analyzing skin lesions and identifying malignancy, doctors can determine the best course of treatment and provide patients with better outcomes.
 
@@ -24,6 +24,7 @@ _Developers do not take responsibility for AI diagnosis_
 
 
 # User manual
+Step 0: To use the SCD you need to install libraries Tensorflow (2.11.1), Keras (2.12.0), gevent (22.10.2), flask (2.2.3), that are latest versions for 21.03.2023
 
 Step 1: Open CMD and navigate to the folder containing the project. In this case, write cd Desktop/Skin Cancer Detector/flask2, then it should show like below:
 C:\Users\[username]\Desktop\Skin Cancer Detector\flask2
@@ -36,5 +37,7 @@ Step 3: Use the localhost URL (http://127.0.0.1:8080) to use SCD.
 
 
 Step 4: Click on ‘Choose file’ to select the image to predict and then press the predict button.
+
+[^1]:There might be possibility fluctuations, but the possibility rate for the current image stays constant
 
 
