@@ -1,5 +1,5 @@
 # SCD
-Skin Cancer Detector(AI) trained and tested on ~3300images of malignant and benign tumors
+Skin Cancer Detector (AI) trained and tested on ~3300 images of malignant and benign tumors
 ***
 This project is a skin cancer detector that uses CNN and deep learning algorithms to classify skin lesions as either malignant or benign. The AI has been trained and tested on a dataset of approximately 3300 images, resulting in an accuracy of about 75%.
 
